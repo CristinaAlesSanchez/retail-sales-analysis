@@ -93,6 +93,21 @@ dashboard/ → Archivo Power BI
 
 reports/ → Informe del análisis
 
+## 📦 Dataset procesado
+
+El archivo `dataset_final.csv` no se incluye en el repositorio debido a su tamaño (60MB).
+
+Puede generarse ejecutando el notebook:
+
+notebook/dataset_final.ipynb
+
+El notebook realiza:
+- Limpieza de datos
+- Transformaciones
+- Creación de variables derivadas
+- Exportación del dataset final
+
+
 👤 Autora
 
 Cristina Ales Sanchez
