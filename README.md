@@ -107,6 +107,11 @@ El notebook realiza:
 - Creación de variables derivadas
 - Exportación del dataset final
 
+  Nota:
+El archivo original en formato XLSX no se incluye en el repositorio debido a su tamaño.
+Se trabaja con la versión CSV del dataset original.
+
+
 
 👤 Autora
 
