@@ -112,6 +112,8 @@ El archivo original en formato XLSX no se incluye en el repositorio debido a su 
 Se trabaja con la versión CSV del dataset original. adjunto enlace
 https://docs.google.com/spreadsheets/d/1qZpzxAusVBjJ0b8NlVRaKfE2xlz1TvZi/edit?usp=drive_link&ouid=104312341214135543097&rtpof=true&sd=true
 
+https://docs.google.com/spreadsheets/d/1qZpzxAusVBjJ0b8NlVRaKfE2xlz1TvZi/edit?usp=sharing&ouid=104312341214135543097&rtpof=true&sd=true
+
 
 
 👤 Autora
