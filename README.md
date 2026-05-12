@@ -1,7 +1,7 @@
 📊 Análisis de Ventas Minoristas (2009–2010)
 📌 Descripción del proyecto
 
-Este proyecto tiene como objetivo analizar datos de transacciones de comercio electrónico correspondientes a los años 2009–2010.
+Este proyecto tiene como objetivo analizar datos `de transacciones de comercio electrónico correspondientes a los años 2009–2010.
 
 Se realiza un proceso completo de:
 
@@ -96,27 +96,31 @@ reports/ → Informe del análisis
 
 ## 📦 Dataset procesado
 
-El archivo `dataset_final.csv` no se incluye en el repositorio debido a su tamaño (60MB).
+El archivo `dataset_final.csv` no se incluye en el repositorio debido a su tamaño (60 MB).
 
 Puede generarse ejecutando el notebook:
 
-notebook/dataset_final.ipynb
+notebooks/dataset_final.ipynb
 
 El notebook realiza:
-- Limpieza de datos
-- Transformaciones
-- Creación de variables derivadas
-- Exportación del dataset final
 
-  Nota:
-El archivo original en formato XLSX no se incluye en el repositorio debido a su tamaño.
-Se trabaja con la versión CSV del dataset original. adjunto enlace
-https://docs.google.com/spreadsheets/d/1qZpzxAusVBjJ0b8NlVRaKfE2xlz1TvZi/edit?usp=drive_link&ouid=104312341214135543097&rtpof=true&sd=true
+-Limpieza de datos
+-Transformaciones
+-Creación de variables derivadas
+-Exportación del dataset final
+-📄 Archivo original en formato XLSX
 
-https://docs.google.com/spreadsheets/d/1qZpzxAusVBjJ0b8NlVRaKfE2xlz1TvZi/edit?usp=sharing&ouid=104312341214135543097&rtpof=true&sd=true
+El archivo original utilizado en el proyecto puede descargarse desde el siguiente enlace de Google Drive:
 
+https://docs.google.com/spreadsheets/d/1qZpzxAusVBjJ0b8NlVRaKfE2xlz1TvZi/edit?usp=sharing
 
+📂 Dataset procesado
+
+El archivo procesado utilizado en el proyecto puede descargarse desde el siguiente enlace de Google Drive:
+
+https://drive.google.com/file/d/18e7iWe-HPM1W7p2PL2F5RcowyVaY3DsF/view?usp=drive_link
 
 👤 Autora
 
 Cristina Ales Sanchez
+
