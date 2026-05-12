@@ -93,6 +93,7 @@ dashboard/ → Archivo Power BI
 
 reports/ → Informe del análisis
 
+
 ## 📦 Dataset procesado
 
 El archivo `dataset_final.csv` no se incluye en el repositorio debido a su tamaño (60MB).
